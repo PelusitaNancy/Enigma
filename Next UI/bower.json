@@ -1,0 +1,21 @@
+{
+  "name": "pruebasnan.com",
+  "description": "Pruebas con NextUI para Enigma",
+  "main": "index.html",
+  "keywords": [
+    "topologia"
+  ],
+  "authors": [
+    "Nancy Estanislao"
+  ],
+  "license": "MIT",
+  "homepage": "http://cisco.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
